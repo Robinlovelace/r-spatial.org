@@ -10,7 +10,7 @@ title: "Geocomputation with R: workshop at eRum"
 
 This is a guest post by Robin Lovelace, Jakub Nowosad and Jannes
 Muenchow. Together we're writing an open source book called
-*Geocomputation with R*. The project aims to introducing people to R's
+*Geocomputation with R*. The project aims to introduce people to R's
 rapidly evolving geographic data capabilities and provide a foundation
 for developing scripts, functions and applications for geographic data
 science.
@@ -26,7 +26,7 @@ finish by describing how R can be used as a bridge to access dedicated
 GIS software.
 
 Gecomp 'base' ics
-=================
+==============
 
 The first thing many people will be asking is "what is geocomputation
 anyway"? As Jannes mentioned in his talk, the choice of name was
@@ -179,6 +179,9 @@ The slides describing vector data in R can be found
 Your browser does not support iframes.
 </p>
 </iframe>
+
+<br>
+
 Raster data
 ===========
 
@@ -235,6 +238,9 @@ found
 Your browser does not support iframes.
 </p>
 </iframe>
+
+<br>
+
 Visualizing spatial data
 ========================
 
@@ -299,6 +305,8 @@ can be found
 Your browser does not support iframes.
 </p>
 </iframe>
+
+<br>
 
 Last but not least was a section on GIS bridges
 ===============================================
